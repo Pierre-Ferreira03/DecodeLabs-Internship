@@ -145,5 +145,3 @@ to order confirmation.
 *DecodeLabs Batch 2026 — Pierre Ferreira*
 
 **[View Interactive Prototype →](https://www.figma.com/proto/kTfymJUcptoVohSWTJAFn3/Decode-Labs-internship?node-id=67-43&p=f&viewport=273%2C224%2C0.31&t=00GMhoWAysoP4oJY-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=67%3A71)**
-
-**User Flow:**
