@@ -1,190 +1,149 @@
+# DecodeLabs Internship — 2026
+
+UI/UX Design project work completed during a 4-week
+internship at DecodeLabs.
+
+**Intern:** Pierre Ferreira
+**Program:** UI/UX Design — Batch 2026
+**Duration:** 4 Weeks
+
+---
+
+## Prototype
+Experience the full Rooted app flow here:
+[View Interactive Prototype](https://www.figma.com/proto/kTfymJUcptoVohSWTJAFn3/Decode-Labs-internship?node-id=67-43&p=f&viewport=273%2C224%2C0.31&t=00GMhoWAysoP4oJY-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=67%3A71)
+
+---
+
+## Projects
+
+| Week | Project | Title | Status |
+|------|---------|-------|--------|
+| 1 | Project 1 | Empathy Map — Fitness App for Busy Professionals | ✅ Complete |
+| 2 | Project 2 | Wireframe — TREAD E-Commerce Homepage | ✅ Complete |
+| 3 | Project 3 | Visual Identity — Rooted Organic Food App | ✅ Complete |
+| 4 | Project 4 | Interactive Prototype — Rooted Full User Flow | ✅ Complete |
+
+---
+
 ## Project 1 — The Empathy Map
 
-Scenario
-A fitness startup wants to launch an app for busy office workers 
-Professionals who struggle to find time for exercise. 
-Before any design work begins, the team needs to understand 
-the user's real pain — not surface-level complaints, 
-But the psychological and behavioural reality underneath them.
+**Scenario:** A fitness startup wants to launch an app
+for busy office professionals who struggle to find time
+for exercise. Before any design work begins, the team
+needs to understand the user's real pain.
+
+**Deliverables:**
+- User Persona — Evan Price, 31, Marketing Manager
+- 4-Quadrant Empathy Map (Says / Thinks / Does / Feels)
+
+**Key Insight:** Evan doesn't lack awareness. He lacks
+confidence that healthy actions can fit realistically
+into his day and still make a difference.
+
+**Files:** `Week 1/`
 
 ---
 
- Deliverables
+## Project 2 — The Blueprint
 
- 1. User Persona — Evan Price
-- **Age:** 31  
-- **Occupation:** Marketing Manager  
-- **Goal:** Mental clarity, not weight loss  
-- **Tech comfort:** Functional user, low patience for onboarding  
+**Scenario:** An e-commerce brand is losing customers
+during checkout. The layout is cluttered. They need a
+clean, logical homepage structure before any colour
+or imagery is added.
 
- 2. Empathy Map
-Built using the 4-quadrant framework (Says / Thinks / 
-Does / Feels), with an explicit External/Internal split 
-to surface the gap between Evan's visible behaviour 
-and his hidden psychology.
+**Brand:** TREAD — Minimalist everyday sneakers.
 
----
+**Deliverable:** Lo-fi homepage wireframe at 1440px
+desktop width. Black, white, and grey only. 10 annotated
+sections. Z-pattern layout with single hero CTA.
 
- Key Insight
-Evan doesn't lack awareness. He lacks confidence that 
-healthy actions can fit realistically into his day 
-and still make a difference.
+**Key Principle:** If a stranger cannot identify what
+you sell and how to buy it within 5 seconds, friction
+is too high.
 
-This reframes the design problem: the product doesn't 
-need to motivate him — it needs to prove itself worthy 
-of his limited time and rebuild his trust in small actions.
-
-# Project 2 — The Blueprint (Wireframing)
-
-## Scenario
-An e-commerce brand is losing customers during the checkout 
-process. The layout is cluttered and users are confused. 
-The task is to design a clean, logical homepage structure 
-before adding any colour, imagery, or visual decoration.
+**Files:** `Week 2 - Project 2/`
 
 ---
 
-## Brand
-**TREAD** — Minimalist everyday sneakers. Comfort, clean 
-design, all-day wear.
+## Project 3 — The Visual Identity
 
----
+**Scenario:** A premium organic food delivery service
+needs a modern visual identity that communicates trust,
+health, and speed through colour and typography alone.
 
-## Deliverable
-Low-fidelity homepage wireframe at 1440px desktop width.
+**Brand:** Rooted — *From the soil. To your door.*
 
-**Constraints:**
-- Black, white, and grey only
-- No images or colour
-- Clear CTAs at strategic scroll depths
-- Annotated — every section explains its purpose
+**Deliverables:**
+- Style Tile — 6 colour tokens, typography scale,
+  component library, spacing system
+- 3 Hi-Fi Screens — Splash, Product List, Product Detail
+- Frame: iPhone 14 Pro — 393 × 852px
 
----
-
-## Layout Decisions
-
-| Decision | Reasoning |
-|---------|-----------|
-| Z-Pattern layout | Single conversion goal — brief recommends Z for minimalist pages |
-| Single hero CTA | Two CTAs above the fold split attention before the user is engaged |
-| 3 category tiles | Removed 4th (Best Sellers) — duplicated by dedicated section below |
-| 3 product cards | Whitespace principle — three breaths, four crowds |
-| Section order | Discover → Browse → Deep dive → Trust → Capture |
-
----
-
-## Sections (10 Annotated)
-1. Announcement Bar — trust signals above the fold
-2. Navigation — 4 links, reduced cognitive load
-3. Hero — single CTA, Z-pattern endpoint
-4. Category Tiles — visual entry points, not text links
-5. Best Sellers — 3 cards, shortened path to product
-6. Meet Tread One — flagship product spotlight
-7. Why Tread — brand benefit reinforcement
-8. Trust Strip — transactional concerns resolved
-9. Email Signup — captures non-buyers with an incentive
-10. Footer — support links without journey disruption
-
----
-
-## Key Principle
-If a stranger cannot identify what you sell and how to buy it 
-It takes less than 5 seconds; the friction is too high.
-
----
-# Project 3 — The Visual Identity
-
-## Scenario
-A premium organic food delivery service needs a modern,
-fresh visual identity that communicates trust, health,
-and speed — not through decoration, but through
-deliberate colour, typography, and spacing decisions.
-
----
-
-## Brand
-**Rooted** — Premium organic food delivery.
-*From the soil. To your door.*
-
----
-
-## Deliverables
-
-### 1. Style Tile
-Documents the full design system before any screen
-was built:
-- 6 colour tokens with psychological rationale
-- Playfair Display + Montserrat typography scale
-- Button states (default, hover, disabled, success)
-- Input states (default, focus, error)
-- Border radius system (12px / 16px / 999px)
-- 8-point spacing scale
-- Product card component example
-
-### 2. Hi-Fidelity Screens (iPhone 14 Pro — 393×852px)
-
-**Splash Screen**
-Full-bleed natural light image, Earthy Brown overlay,
-centred Rooted logo and tagline, single anchored
-Get Started CTA.
-
-**Product List**
-Search bar, category filter pills, 2-column product
-grid with Organic badges, price shown at CTA,
-Earthy Brown bottom navigation.
-
-**Product Detail**
-Hero product image, USDA Organic + Non-GMO
-certification badges, farm origin line, quantity
-selector, farm-to-table journey timeline, anchored
-Add to Cart button.
-
----
-
-## Design System
+**Design System:**
 
 | Token | Hex | Role |
 |-------|-----|------|
-| Leaf Green | #3A6B35 | Primary — buttons, active states |
-| Earthy Brown | #4A2E1A | Secondary — nav, footer, overlays |
-| Harvest Gold | #C9A84C | Accent only — badges, delight moments |
-| Cream | #F5F0E8 | Background — warm, not clinical |
+| Leaf Green | #3A6B35 | Primary |
+| Earthy Brown | #4A2E1A | Secondary |
+| Harvest Gold | #C9A84C | Accent only |
+| Cream | #F5F0E8 | Background |
 | Off-Black | #1C1C1C | Body text |
-| Light Grey | #E8E3DA | Dividers, card borders |
+| Light Grey | #E8E3DA | Dividers |
 
-**Typography:** Playfair Display (headlines) +
-Montserrat (body and UI)
-**Grid:** 8-point — all dimensions multiples of 8
-**Anti-pattern:** No urgent reds — calm and
-trustworthy throughout
+**Files:** `Week 3 - Project 3/`
 
 ---
 
-## Key Design Decisions
-- Cream background over white — avoids clinical coldness
-- Harvest Gold used sparingly — accent loses meaning if overused
-- Natural light imagery only — no studio shots per brief direction
-- Price shown on Add to Cart button — removes back-scanning friction
-- Farm-to-table timeline on detail screen — builds trust at point of purchase
+## Project 4 — The Living Prototype
+
+**Scenario:** Stakeholders need to feel how the app
+works before it goes to development. Static screens
+are not enough — they need transitions, button
+interactions, and a complete clickable flow.
+
+**Brand:** Rooted — *From the soil. To your door.*
+
+**Deliverable:** Fully interactive Figma prototype
+covering the complete happy path from app launch
+to order confirmation.
+
+**6 Screens:**
+
+| Screen | Purpose |
+|--------|---------|
+| Splash | Brand entry, Get Started CTA |
+| Product List | Browse, filter, add to cart |
+| Product Detail | Product info, farm origin, Add to Cart |
+| Cart | Review items, quantities, subtotal |
+| Checkout | Address, payment, order summary |
+| Confirmation | Order receipt, continue shopping |
+
+**Interactions:**
+- Forward navigation: Push Left, Ease out, 300ms
+- Back navigation: Push Right, Ease out, 300ms
+- Splash entry: Push Up, Ease out, 350ms
+- Order confirmation: Dissolve, Ease in and out, 400ms
+- Add to Cart: Smart Animate button state, 200ms
+- Place Order: Loading state, Harvest Gold spinner, 200ms
+
+**Files:** `Week 4 - Project 4/`
 
 ---
 
-## Assets
-- `assets/rooted-style-tile.jpg` — Design system reference
-- `assets/rooted-splash.jpg` — Splash screen
-- `assets/rooted-product-list.jpg` — Product list screen
-- `assets/rooted-product-detail.jpg` — Product detail screen
-- `project3.html` — Full case study page
+## Internship Progression
 
-## Assets
-- `assets/tread-wireframe.png` — Annotated lo-fi wireframe
-- `project2.html` — Full case study page
+| Week | Focus | Output |
+|------|-------|--------|
+| 1 | UX Research | Empathy Map + Persona |
+| 2 | Information Architecture | Lo-Fi Wireframe |
+| 3 | Visual Design | Hi-Fi UI + Design System |
+| 4 | Interaction Design | Clickable Prototype |
 
 ---
 
- Assets
-- `assets/evan-price-persona.png` — User persona card  
-- `assets/evan-price-empathy-map.png` — Empathy map
+*DecodeLabs Batch 2026 — Pierre Ferreira*
 
-## Figma File
-[View in Figma](https://www.figma.com/design/kTfymJUcptoVohSWTJAFn3/Decode-Labs---internship?m=auto&t=XKPPnS84zvXzWNd6-6)
+**[View Interactive Prototype →](https://www.figma.com/proto/kTfymJUcptoVohSWTJAFn3/Decode-Labs-internship?node-id=67-43&p=f&viewport=273%2C224%2C0.31&t=00GMhoWAysoP4oJY-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=67%3A71)**
+
+**User Flow:**
